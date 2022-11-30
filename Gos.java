@@ -18,6 +18,6 @@ public class Gos {
 	
 	public String getOrigen(){
 		return origen;
-	}
+	} oasoao
 }
 
